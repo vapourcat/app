@@ -1,16 +1,7 @@
 # my_sprite_hunt_game
 
-A new Flutter project.
+執行main即可
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+小精靈遊戲
+規則：吃完所有綠點及勝利
+注意：不可被紅、棕、藍這三個抓到，被抓到及失敗
